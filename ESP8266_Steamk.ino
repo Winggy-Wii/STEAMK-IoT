@@ -25,7 +25,6 @@ void setup() {
     Serial.println("Connecting to WiFi..");
   }
 
-  // Print ESP Local IP Address
   Serial.println(WiFi.localIP());
   server.on("/", HTTP_GET, [](AsyncWebServerRequest * request)
   {
@@ -59,6 +58,5 @@ void setup() {
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
 
 }
