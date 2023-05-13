@@ -6,3 +6,6 @@ Cài đặt ESP trên Arduino IDE với: http://arduino.esp8266.com/stable/packa
 Tải thư viện tại đây:
   - https://github.com/me-no-dev/ESPAsyncWebServer
   - https://github.com/me-no-dev/ESPAsyncTCP
+
+Đường dẫn tham khảo thêm:
+  - https://randomnerdtutorials.com/esp8266-ds18b20-temperature-sensor-web-server-with-arduino-ide/
